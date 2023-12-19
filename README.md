@@ -1,3 +1,4 @@
+![logo](https://github.com/SharjeelHussain877/SharjeelHussain877/blob/main/Dark%20Neon%20Simple%20Futuristic%20UIUX%20Designer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm sharjeel Hussain</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1E1Yr2QS8EHDC6xhy9ffnS&ust=1703095605040000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDntduLnIMDFQAAAAAdAAAAABAD">
