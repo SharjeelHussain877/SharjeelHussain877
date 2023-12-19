@@ -1,7 +1,8 @@
 ![logo](https://github.com/SharjeelHussain877/SharjeelHussain877/blob/main/Dark%20Neon%20Simple%20Futuristic%20UIUX%20Designer%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm sharjeel Hussain</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1E1Yr2QS8EHDC6xhy9ffnS&ust=1703095605040000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDntduLnIMDFQAAAAAdAAAAABAD](https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharjeelhussain877&label=Profile%20views&color=0e75b6&style=flat" alt="sharjeelhussain877" /> </p>
 
@@ -38,3 +39,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharjeelhussain877&show_icons=true&locale=en" alt="sharjeelhussain877" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharjeelhussain877&" alt="sharjeelhussain877" /></p>
+
