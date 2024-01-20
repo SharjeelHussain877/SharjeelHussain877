@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://shrjl.netlify.app/](https://shrjl.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shrjl.netlify.app/]([https://shrjl.netlify.app/](https://sharjeelhussain877.github.io/portfolio/))
 
 - 💬 Ask me about **HTML,CSS,BOOTSTRAP,TALWINDCSS & JAVASCRIPT**
 
