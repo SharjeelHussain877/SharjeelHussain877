@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharjeelhussain877&label=Profile%20views&color=0e75b6&style=flat" alt="sharjeelhussain877" /> </p>
 
 
-![logo](https://github.com/SharjeelHussain877/SharjeelHussain877/blob/main/Banner.png)
+![logo]([https://github.com/SharjeelHussain877/SharjeelHussain877/blob/main/Banner.png](https://github.com/SharjeelHussain877/SharjeelHussain877/blob/main/banner.gif))
 <h1 align="center">Hi 👋, I'm Sharjeel Hussain</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
