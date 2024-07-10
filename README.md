@@ -11,8 +11,10 @@
 <p align="left"> <a href="https://twitter.com/shrjilhussain" target="blank"><img src="https://img.shields.io/twitter/follow/shrjilhussain?logo=twitter&style=for-the-badge" alt="shrjilhussain" /></a> </p>
 
 
-<h2>
+<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+
 
 
 - 🔭 I’m currently working on Nubit Soft as a mern stack developer 
