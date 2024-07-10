@@ -2,18 +2,19 @@
 
 ![MasterHead](https://github.com/SharjeelHussain877/SharjeelHussain877/blob/main/bg.gif)
 
-<h1 align="center">Hi 👋, I'm Sharjeel Hussain</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h1 align="center">Hi 👋, My name is Sharjeel Hussain</h1>
+<h3 align="center">A passionate mern stack developer. Thank You for taking the time to view my GitHub Profile</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharjeelhussain877" alt="sharjeelhussain877" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shrjilhussain" target="blank"><img src="https://img.shields.io/twitter/follow/shrjilhussain?logo=twitter&style=for-the-badge" alt="shrjilhussain" /></a> </p>
 
+<div size='20px'> 
+</div>
 
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+<h2>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" /> </h2>
 
 
 - 🔭 I’m currently working on Nubit Soft as a mern stack developer 
