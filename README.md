@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharjeelhussain877&label=Profile%20views&color=0e75b6&style=flat" alt="sharjeelhussain877" /> </p>
 
-![MasterHead](https://github.com/SharjeelHussain877/SharjeelHussain877/blob/main/bg.png)
+![MasterHead](https://github.com/SharjeelHussain877/SharjeelHussain877/blob/main/new.png)
 
 <h1 align="center">Hi 👋, My name is Sharjeel Hussain</h1>
 <h3 align="center">A passionate mern stack developer. Thank You for taking the time to view my GitHub Profile</h3>
