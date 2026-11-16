@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="Sharjeel Hussain — Full Stack Engineer, AI-Powered Web and Mobile Applications">
+<style>
+  .mono { font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; } .sans { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; }
+  .fade { animation: fade .8s ease-out both; } .fade2 { animation: fade .8s ease-out .25s both; } .fade3 { animation: fade .8s ease-out .45s both; } .fade4 { animation: fade .8s ease-out .65s both; }
+  @keyframes fade { from { opacity: 0; transform: translateY(6px) } to { opacity: 1; transform: none } }
+  .cur { animation: blink 1.1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0 } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="1" y="1" width="1198" height="248" rx="12" fill="#0d1117" stroke="#23362c" stroke-width="2"/>
+<text class="mono" x="40" y="40" font-size="15" fill="#7fb89a">&gt; player_1 ready<tspan class="cur">_</tspan></text>
+<g transform="translate(1116 24)" fill="#23362c"><rect x="8" y="0" width="4" height="4"/><rect x="32" y="0" width="4" height="4"/><rect x="12" y="4" width="4" height="4"/><rect x="28" y="4" width="4" height="4"/><rect x="8" y="8" width="4" height="4"/><rect x="12" y="8" width="4" height="4"/><rect x="16" y="8" width="4" height="4"/><rect x="20" y="8" width="4" height="4"/><rect x="24" y="8" width="4" height="4"/><rect x="28" y="8" width="4" height="4"/><rect x="32" y="8" width="4" height="4"/><rect x="4" y="12" width="4" height="4"/><rect x="8" y="12" width="4" height="4"/><rect x="16" y="12" width="4" height="4"/><rect x="20" y="12" width="4" height="4"/><rect x="24" y="12" width="4" height="4"/><rect x="32" y="12" width="4" height="4"/><rect x="36" y="12" width="4" height="4"/><rect x="0" y="16" width="4" height="4"/><rect x="4" y="16" width="4" height="4"/><rect x="8" y="16" width="4" height="4"/><rect x="12" y="16" width="4" height="4"/><rect x="16" y="16" width="4" height="4"/><rect x="20" y="16" width="4" height="4"/><rect x="24" y="16" width="4" height="4"/><rect x="28" y="16" width="4" height="4"/><rect x="32" y="16" width="4" height="4"/><rect x="36" y="16" width="4" height="4"/><rect x="40" y="16" width="4" height="4"/><rect x="0" y="20" width="4" height="4"/><rect x="8" y="20" width="4" height="4"/><rect x="12" y="20" width="4" height="4"/><rect x="16" y="20" width="4" height="4"/><rect x="20" y="20" width="4" height="4"/><rect x="24" y="20" width="4" height="4"/><rect x="28" y="20" width="4" height="4"/><rect x="32" y="20" width="4" height="4"/><rect x="40" y="20" width="4" height="4"/><rect x="0" y="24" width="4" height="4"/><rect x="8" y="24" width="4" height="4"/><rect x="32" y="24" width="4" height="4"/><rect x="40" y="24" width="4" height="4"/><rect x="12" y="28" width="4" height="4"/><rect x="16" y="28" width="4" height="4"/><rect x="24" y="28" width="4" height="4"/><rect x="28" y="28" width="4" height="4"/></g>
+<g class="fade">
+  <text class="sans" x="600.0" y="98" text-anchor="middle" font-size="54" font-weight="700" fill="#e8f5ed">Sharjeel Hussain</text>
+</g>
+<g class="fade2">
+  <text class="sans" x="600.0" y="132" text-anchor="middle" font-size="20" font-weight="600" fill="#3ddc84">Full Stack Engineer  ·  AI-Powered Web &amp; Mobile Applications</text>
+</g>
+<g class="fade3">
+  <text class="sans" x="600.0" y="164" text-anchor="middle" font-size="14" fill="#c9d9cf">Building scalable SaaS products, intelligent applications and business automation solutions.</text>
+</g>
+<g class="fade4">
+  <text class="mono" x="600.0" y="204" text-anchor="middle" font-size="14" letter-spacing="1" fill="#7fb89a">Web Apps  ·  Mobile Apps  ·  AI Integration  ·  SaaS  ·  Automation</text>
+</g>
+</svg>
