@@ -108,12 +108,12 @@ status:        Open to freelance & contract work
 ## 📈 Live Scoreboard
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SharjeelHussain877&show_icons=true&hide_border=true&bg_color=0b0f17&title_color=e6edf3&icon_color=7c5cff&text_color=8b949e&ring_color=22d3ee&rank_icon=github&custom_title=Player%20Stats" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=SharjeelHussain877&show_icons=true&hide_border=true&bg_color=0b0f17&title_color=e6edf3&icon_color=7c5cff&text_color=8b949e&ring_color=22d3ee&rank_icon=github&custom_title=Player%20Stats" alt="GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=SharjeelHussain877&hide_border=true&background=0b0f17&stroke=30363d&ring=7c5cff&fire=22d3ee&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e" alt="GitHub streak — combo counter" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharjeelHussain877&layout=compact&hide_border=true&bg_color=0b0f17&title_color=e6edf3&text_color=8b949e&custom_title=Most%20Used%20Weapons&langs_count=6" alt="Most used languages" />
+  <img height="150" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=SharjeelHussain877&layout=compact&hide_border=true&bg_color=0b0f17&title_color=e6edf3&text_color=8b949e&custom_title=Most%20Used%20Weapons&langs_count=6" alt="Most used languages" />
 </p>
 
 ---
