@@ -116,18 +116,6 @@ status:        Open to freelance & contract work
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharjeelHussain877&layout=compact&hide_border=true&bg_color=0b0f17&title_color=e6edf3&text_color=8b949e&custom_title=Most%20Used%20Weapons&langs_count=6" alt="Most used languages" />
 </p>
 
-<h3 align="center">🐍 Boss Level: the snake that eats my commits</h3>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SharjeelHussain877/SharjeelHussain877/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SharjeelHussain877/SharjeelHussain877/output/github-snake.svg" />
-    <img alt="Snake eating the contribution graph" src="https://raw.githubusercontent.com/SharjeelHussain877/SharjeelHussain877/output/github-snake-dark.svg" />
-  </picture>
-</p>
-
-<sub align="center">(First render can take a few minutes after this page goes live — the snake redraws itself from a GitHub Action.)</sub>
-
 ---
 
 ## 🛒 Shop · Services for Hire
