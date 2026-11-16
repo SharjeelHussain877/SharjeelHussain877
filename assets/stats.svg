@@ -1,40 +1,41 @@
 <svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Character stats: Frontend, Backend, SaaS Architecture, AI Integration, Databases">
   <defs>
     <linearGradient id="barGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#7c5cff"/>
-      <stop offset="100%" stop-color="#22d3ee"/>
+      <stop offset="0%" stop-color="#193D32"/>
+      <stop offset="100%" stop-color="#287A55"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="260" fill="#0b0f17"/>
-  <text x="40" y="36" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="3" fill="#8b949e">SELF-RATED · NOT A BENCHMARK</text>
+  <rect width="1200" height="260" fill="#FFFFFF"/>
+  <rect x="1" y="1" width="1198" height="258" fill="none" stroke="#E2EBE3" stroke-width="2"/>
+  <text x="40" y="36" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="3" fill="#6EAA83">SELF-RATED · NOT A BENCHMARK</text>
 
   <!-- Frontend -->
-  <text x="40" y="78" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#e6edf3">Frontend (React / Next.js)</text>
-  <rect x="40" y="86" width="820" height="10" rx="5" fill="#21262d"/>
+  <text x="40" y="78" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#263A30">Frontend (React / Next.js)</text>
+  <rect x="40" y="86" width="820" height="10" rx="5" fill="#DDECE0"/>
   <rect x="40" y="86" width="738" height="10" rx="5" fill="url(#barGrad)"/>
-  <text x="1120" y="94" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="13" fill="#8b949e">90</text>
+  <text x="1120" y="94" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="13" fill="#193D32">90</text>
 
   <!-- Backend -->
-  <text x="40" y="118" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#e6edf3">Backend (Node.js / APIs)</text>
-  <rect x="40" y="126" width="820" height="10" rx="5" fill="#21262d"/>
+  <text x="40" y="118" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#263A30">Backend (Node.js / APIs)</text>
+  <rect x="40" y="126" width="820" height="10" rx="5" fill="#DDECE0"/>
   <rect x="40" y="126" width="697" height="10" rx="5" fill="url(#barGrad)"/>
-  <text x="1120" y="134" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="13" fill="#8b949e">85</text>
+  <text x="1120" y="134" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="13" fill="#193D32">85</text>
 
   <!-- SaaS Architecture -->
-  <text x="40" y="158" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#e6edf3">SaaS Architecture</text>
-  <rect x="40" y="166" width="820" height="10" rx="5" fill="#21262d"/>
+  <text x="40" y="158" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#263A30">SaaS Architecture</text>
+  <rect x="40" y="166" width="820" height="10" rx="5" fill="#DDECE0"/>
   <rect x="40" y="166" width="697" height="10" rx="5" fill="url(#barGrad)"/>
-  <text x="1120" y="174" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="13" fill="#8b949e">85</text>
+  <text x="1120" y="174" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="13" fill="#193D32">85</text>
 
   <!-- AI Integration -->
-  <text x="40" y="198" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#e6edf3">AI Integration (RAG / LLMs)</text>
-  <rect x="40" y="206" width="820" height="10" rx="5" fill="#21262d"/>
+  <text x="40" y="198" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#263A30">AI Integration (RAG / LLMs)</text>
+  <rect x="40" y="206" width="820" height="10" rx="5" fill="#DDECE0"/>
   <rect x="40" y="206" width="615" height="10" rx="5" fill="url(#barGrad)"/>
-  <text x="1120" y="214" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="13" fill="#8b949e">75</text>
+  <text x="1120" y="214" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="13" fill="#193D32">75</text>
 
   <!-- Databases -->
-  <text x="40" y="238" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#e6edf3">Databases (SQL / NoSQL)</text>
-  <rect x="40" y="246" width="820" height="10" rx="5" fill="#21262d"/>
+  <text x="40" y="238" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#263A30">Databases (SQL / NoSQL)</text>
+  <rect x="40" y="246" width="820" height="10" rx="5" fill="#DDECE0"/>
   <rect x="40" y="246" width="656" height="10" rx="5" fill="url(#barGrad)"/>
-  <text x="1120" y="254" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="13" fill="#8b949e">80</text>
+  <text x="1120" y="254" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="13" fill="#193D32">80</text>
 </svg>
