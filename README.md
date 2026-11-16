@@ -1,124 +1,159 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Sharjeel Hussain — Full Stack Engineer, SaaS Builder, AI Enthusiast" width="100%" />
+  <a href="https://sharjeelhussain.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=%3E%20Loading%20player%20profile...%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20100%25;%3E%20Class%3A%20Full%20Stack%20Engineer;%3E%20Main%20weapon%3A%20React%20%2F%20Next.js%20%E2%9A%94%EF%B8%8F;%3E%20Side%20weapon%3A%20Node.js%20%2B%20AI%20integrations%20%F0%9F%9B%A1%EF%B8%8F;%3E%20Special%20move%3A%20ships%20SaaS%20from%20idea%20to%20production;%3E%20Press%20START%20to%20explore%20%E2%96%B6" alt="Typing intro" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://sharjeelhussain.vercel.app">Portfolio</a> ·
-  <a href="mailto:dev.sharjeelhussain@gmail.com">Email</a> ·
-  <a href="https://pk.linkedin.com/in/SharjeelHussain877">LinkedIn</a> ·
-  <a href="https://x.com/shrjilhussain">X</a> ·
-  <a href="https://cal.com/sharjeel-hussain-877/quick-chat">Book a call</a>
+  <a href="https://sharjeelhussain.vercel.app"><img src="https://img.shields.io/badge/Portfolio-sharjeelhussain.vercel.app-0b0f17?style=flat-square&color=0b0f17&labelColor=11141c&logo=googlechrome&logoColor=e6edf3" alt="Portfolio" /></a>
+  <a href="https://pk.linkedin.com/in/SharjeelHussain877"><img src="https://img.shields.io/badge/LinkedIn-Join_my_party-0b0f17?style=flat-square&color=0b0f17&labelColor=11141c&logo=linkedin&logoColor=e6edf3" alt="LinkedIn" /></a>
+  <a href="mailto:dev.sharjeelhussain@gmail.com"><img src="https://img.shields.io/badge/Email-Send_a_raven-0b0f17?style=flat-square&color=0b0f17&labelColor=11141c&logo=gmail&logoColor=e6edf3" alt="Email" /></a>
+  <a href="https://cal.com/sharjeel-hussain-877/quick-chat"><img src="https://img.shields.io/badge/Book_a_call-cal.com-0b0f17?style=flat-square&color=0b0f17&labelColor=11141c&logoColor=e6edf3" alt="Book a call" /></a>
 </p>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SharjeelHussain877&label=players%20who%20entered%20this%20level&color=30363d&labelColor=11141c&style=flat-square" alt="Profile views" />
+</p>
 
-## 01 · The Signal
-<sub><b>WHO I AM</b></sub>
+---
 
-I'm a Full Stack Engineer, SaaS builder, and AI enthusiast based in Karachi, Pakistan. For the past 3 years I've been turning ideas into production software — React and Next.js on the front end, Node.js on the back end, and the databases that hold it all together.
-
-More recently, a growing part of that work is wiring large language models into real products: RAG pipelines, AI agents, and automation — not as a gimmick bolted on at the end, but as a core part of how the product, and how I build it, actually works.
-
-> Keep the stack simple and the process clear.
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
-
-## 02 · The Process
-<sub><b>HOW I TURN IDEAS INTO PRODUCTION</b></sub>
-
-- **Start from the data model.** Screens change; the shape of the data usually doesn't. Schemas and API contracts come before UI.
-- **Ship in vertical slices.** One real flow working end to end beats ten screens with nothing behind them yet.
-- **Design for the second customer, not just the first demo.** Multi-tenant thinking, auth, and roles get built in early — retrofitting them later is where SaaS projects stall.
-- **Treat the API as the real product.** The frontend is a client of it, not the other way around — which is also what lets a future mobile app, or an AI agent, use the same backend.
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
-
-## 03 · The Edge
-<sub><b>AI & INNOVATION</b></sub>
-
-AI sits on both sides of my work: inside the products I ship, and inside how I ship them.
-
-- **In the product** — integrating LLM APIs into real features, building RAG pipelines over a client's own data, and designing AI agents that do one job well instead of a chat window that tries to do everything.
-- **In the workflow** — `Claude`, `Cursor`, and `GitHub Copilot` are part of my daily toolchain for scaffolding, refactoring, and catching mistakes early, so more time goes into architecture and product decisions than boilerplate.
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
-
-## 04 · The Output
-<sub><b>THINGS I'VE BUILT</b></sub>
-
-| Project | What it is |
-|---|---|
-| [**Schoolovic**](https://schoolovic.vercel.app) | Cloud-based school management system (ERP) — student records, exams, QR attendance, and multi-campus management. |
-| [**FlowKanvas**](https://flowkanvas.vercel.app) | A developer-first PDF API that generates documents from reusable templates with auto-detected variables. |
-| [**Moment Acclaim**](https://www.momentacclaim.com) | Turns photos and messages into personalized digital keepsakes that open through a private link. |
-| **QueLess City** | A virtual queue management app for businesses and customers. *(private project — no public link yet)* |
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
-
-## 05 · The Stack
-<sub><b>TECHNOLOGY</b></sub>
+## 🎮 Player Select
 
 <table>
-<tr>
-<td align="center" width="25%"><b>Frontend</b></td>
-<td align="center" width="25%"><b>Backend</b></td>
-<td align="center" width="25%"><b>Databases & Cloud</b></td>
-<td align="center" width="25%"><b>Tools</b></td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,materialui&theme=dark&perline=3" alt="React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Redux Toolkit, Material UI" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=2" alt="Node.js, Express.js" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase,vercel&theme=dark&perline=3" alt="PostgreSQL, MongoDB, Supabase, Firebase, Vercel" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark&perline=3" alt="Git, GitHub, Postman" /></td>
-</tr>
-<tr>
-<td><sub>React.js · Next.js · TypeScript · JavaScript · HTML5 &amp; CSS3 · Tailwind CSS · Shadcn UI · Material UI · Redux Toolkit</sub></td>
-<td><sub>Node.js · Express.js · REST APIs · API Integration · Authentication &amp; Authorization</sub></td>
-<td><sub>PostgreSQL · MongoDB · Supabase · Firebase · Firestore · Cloudinary · Vercel</sub></td>
-<td><sub>Git · GitHub · Postman · NPM · Yarn</sub></td>
-</tr>
+  <tr>
+    <td width="34%" align="center" valign="top">
+      <img src="sharjeelhussain.png" alt="Sharjeel Hussain" width="220" />
+      <br />
+      <sub><b>🟢 ONLINE</b> — open to freelance &amp; contract work</sub>
+    </td>
+    <td width="66%" valign="top">
+
+```yaml
+player:        Sharjeel Hussain
+class:         Full Stack Engineer · SaaS Builder · AI Enthusiast
+current_guild: Angle Brackets  # Full Stack Engineer
+spawn_point:   Karachi, Pakistan 🇵🇰
+experience:    3 years
+main_weapon:   React / Next.js ⚔️
+side_weapon:   Node.js + AI integrations 🛡️
+special_move:  "Keeps the stack simple and the process clear."
+status:        Open to freelance & contract work
+```
+
+</td>
+  </tr>
 </table>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
-
-## 06 · The Path
-<sub><b>EXPERIENCE & JOURNEY</b></sub>
-
-- **Angle Brackets** — Full Stack Engineer · *Present*
-  Building full-stack web products end to end: data models, APIs, and the front ends on top of them.
-- **SCMDOJO** — MERN Stack Developer
-  Shipped features for a supply chain learning platform.
-- **Coderx** — Full Stack Engineer
-  Delivered client web applications with React front ends and Node.js services.
-- **Nubit Software** — MERN Stack Developer
-  Developed and maintained applications for software house clients.
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
-
-## 07 · The Pulse
-<sub><b>GITHUB ACTIVITY</b></sub>
+> **Lore:** A full-stack engineer who ships complete SaaS products — React/Next.js front ends, Node.js
+> services, and the databases and APIs underneath. Increasingly builds AI directly into them too:
+> RAG pipelines, LLM integrations, and AI agents. From first screen to production, with
+> **Claude**, **Cursor**, and **GitHub Copilot** in the toolchain along the way.
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SharjeelHussain877&theme=github-dark&bg_color=0b0f17&color=8b949e&line=7c5cff&point=22d3ee&area=true&hide_border=true" width="100%" alt="Sharjeel's GitHub contribution activity graph" />
+  <b>🕹️ Try my live builds →</b>
+  <a href="https://schoolovic.vercel.app"><img src="https://img.shields.io/badge/Schoolovic-SaaS-0b0f17?style=flat-square&color=0b0f17&labelColor=11141c&logoColor=e6edf3" alt="Schoolovic" /></a>
+  <a href="https://flowkanvas.vercel.app"><img src="https://img.shields.io/badge/FlowKanvas-PDF_API-0b0f17?style=flat-square&color=0b0f17&labelColor=11141c&logoColor=e6edf3" alt="FlowKanvas" /></a>
+  <a href="https://www.momentacclaim.com"><img src="https://img.shields.io/badge/Moment_Acclaim-Web-0b0f17?style=flat-square&color=0b0f17&labelColor=11141c&logoColor=e6edf3" alt="Moment Acclaim" /></a>
+  <img src="https://img.shields.io/badge/QueLess_City-Private_build-0b0f17?style=flat-square&color=0b0f17&labelColor=11141c&logoColor=8b949e" alt="QueLess City — private build, no public link yet" />
+</p>
+
+---
+
+## 📊 Character Stats
+
+<p align="center">
+  <img src="assets/stats.svg" alt="Character stats: Frontend, Backend, SaaS Architecture, AI Integration, Databases" width="100%" />
+</p>
+
+---
+
+## 🧰 Inventory · Skill Tree
+
+<table>
+  <tr>
+    <td align="center" width="25%"><b>🖥️ Frontend</b><br /><sub>Core</sub></td>
+    <td align="center" width="25%"><b>🗄️ Backend &amp; Database</b><br /><sub>Core</sub></td>
+    <td align="center" width="25%"><b>☁️ Cloud &amp; Services</b><br /><sub>Deploy</sub></td>
+    <td align="center" width="25%"><b>🛠️ Tools &amp; Workflow</b><br /><sub>Always equipped</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&theme=dark&perline=3" alt="React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&theme=dark&perline=2" alt="Node.js, Express.js, PostgreSQL, MongoDB" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=supabase,firebase,vercel&theme=dark&perline=2" alt="Supabase, Firebase, Vercel" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark&perline=2" alt="Git, GitHub, Postman" /></td>
+  </tr>
+  <tr>
+    <td><sub>React.js · Next.js · TypeScript · JavaScript · HTML5 &amp; CSS3 · Tailwind CSS · Shadcn UI · Material UI · Redux Toolkit</sub></td>
+    <td><sub>Node.js · Express.js · PostgreSQL · MongoDB · REST APIs · Auth</sub></td>
+    <td><sub>Supabase · Firebase · Firestore · Cloudinary · Vercel</sub></td>
+    <td><sub>Git &amp; GitHub · Postman · NPM &amp; Yarn · AI-assisted dev (Claude, Cursor, Copilot)</sub></td>
+  </tr>
+</table>
+
+---
+
+## 🧭 Guild History
+
+| Chapter | Guild | Role |
+|---|---|---|
+| **Current** | **Angle Brackets** | Full Stack Engineer |
+| Earlier | **SCMDOJO** | MERN Stack Developer |
+| Earlier | **Coderx** | Full Stack Engineer |
+| Earlier | **Nubit Software** | MERN Stack Developer |
+
+<sub>Exact dates aren't public yet — chapters are ordered current → earliest.</sub>
+
+---
+
+## 📈 Live Scoreboard
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SharjeelHussain877&show_icons=true&hide_border=true&bg_color=0b0f17&title_color=e6edf3&icon_color=7c5cff&text_color=8b949e&ring_color=22d3ee&rank_icon=github&custom_title=Player%20Stats" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=SharjeelHussain877&hide_border=true&background=0b0f17&stroke=30363d&ring=7c5cff&fire=22d3ee&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e" alt="GitHub streak — combo counter" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SharjeelHussain877&show_icons=true&hide_border=true&bg_color=0b0f17&title_color=e6edf3&icon_color=7c5cff&text_color=8b949e" alt="Sharjeel's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharjeelHussain877&layout=compact&hide_border=true&bg_color=0b0f17&title_color=e6edf3&text_color=8b949e" alt="Most used languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharjeelHussain877&layout=compact&hide_border=true&bg_color=0b0f17&title_color=e6edf3&text_color=8b949e&custom_title=Most%20Used%20Weapons&langs_count=6" alt="Most used languages" />
 </p>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
-
-## 08 · The Invite
-<sub><b>LET'S BUILD SOMETHING</b></sub>
+<h3 align="center">🐍 Boss Level: the snake that eats my commits</h3>
 
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Let's build something" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SharjeelHussain877/SharjeelHussain877/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SharjeelHussain877/SharjeelHussain877/output/github-snake.svg" />
+    <img alt="Snake eating the contribution graph" src="https://raw.githubusercontent.com/SharjeelHussain877/SharjeelHussain877/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+<sub align="center">(First render can take a few minutes after this page goes live — the snake redraws itself from a GitHub Action.)</sub>
+
+---
+
+## 🛒 Shop · Services for Hire
+
+| Item | What you get |
+|---|---|
+| 🌐 **Website / Web App** | Responsive sites and web apps with React &amp; Next.js |
+| 🏫 **SaaS &amp; Dashboards** | Multi-tenant platforms and admin panels in Next.js |
+| 🔌 **Backend &amp; APIs** | Node.js / Express, PostgreSQL, MongoDB, Supabase, Firebase, auth |
+| 🤖 **AI Integration** | LLM APIs, RAG pipelines, and AI agents wired into real products |
+| 🛍️ **Deployment &amp; Redesigns** | Shipping to Vercel, cleaner and faster UIs |
+
+---
+
+## 🕹️ Continue?
+
+<p align="center">
+  <b>Got a project, a role, or a boss you can't beat alone?</b><br />
+  <sub>Insert coin below — Player 2 is always welcome. 🪙</sub>
+  <br /><br />
+  <a href="https://sharjeelhussain.vercel.app"><img src="https://img.shields.io/badge/Portfolio-sharjeelhussain.vercel.app-0b0f17?style=flat-square&color=0b0f17&labelColor=11141c&logo=googlechrome&logoColor=e6edf3" alt="Portfolio" /></a>
+  <a href="mailto:dev.sharjeelhussain@gmail.com"><img src="https://img.shields.io/badge/Email-dev.sharjeelhussain%40gmail.com-0b0f17?style=flat-square&color=0b0f17&labelColor=11141c&logo=gmail&logoColor=e6edf3" alt="Email" /></a>
+  <a href="https://pk.linkedin.com/in/SharjeelHussain877"><img src="https://img.shields.io/badge/LinkedIn-Sharjeel_Hussain-0b0f17?style=flat-square&color=0b0f17&labelColor=11141c&logo=linkedin&logoColor=e6edf3" alt="LinkedIn" /></a>
+  <a href="https://cal.com/sharjeel-hussain-877/quick-chat"><img src="https://img.shields.io/badge/Book_a_call-cal.com-0b0f17?style=flat-square&color=0b0f17&labelColor=11141c&logoColor=e6edf3" alt="Book a call" /></a>
 </p>
 
 <p align="center">
-  <a href="https://sharjeelhussain.vercel.app">Portfolio</a> ·
-  <a href="https://cal.com/sharjeel-hussain-877/quick-chat">Book a call</a> ·
-  <a href="mailto:dev.sharjeelhussain@gmail.com">Email</a> ·
-  <a href="https://pk.linkedin.com/in/SharjeelHussain877">LinkedIn</a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=560&lines=GAME%20SAVED%20%F0%9F%92%BE;Thanks%20for%20stopping%20by%21%20%E2%AD%90%20the%20repos%20for%20bonus%20XP;Code.%20Ship.%20Repeat." alt="Game saved" />
 </p>
