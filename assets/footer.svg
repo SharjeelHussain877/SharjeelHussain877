@@ -1,0 +1,49 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Let's build something">
+  <defs>
+    <linearGradient id="bgGrad2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0f17"/>
+      <stop offset="100%" stop-color="#11141c"/>
+    </linearGradient>
+    <linearGradient id="accentGrad2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="55%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#7c5cff"/>
+    </linearGradient>
+    <radialGradient id="nodeGrad2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#7c5cff"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#bgGrad2)"/>
+
+  <text x="1210" y="200" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="170" font-weight="700" fill="none" stroke="#2a2f3a" stroke-width="1.5" opacity="0.5">&lt;/&gt;</text>
+
+  <g stroke="#30363d" stroke-width="1">
+    <line x1="140" y1="40" x2="200" y2="70"/>
+    <line x1="200" y1="70" x2="170" y2="130"/>
+    <line x1="170" y1="130" x2="100" y2="150"/>
+    <line x1="100" y1="150" x2="140" y2="40"/>
+    <line x1="200" y1="70" x2="260" y2="100"/>
+    <line x1="260" y1="100" x2="230" y2="170"/>
+    <line x1="170" y1="130" x2="230" y2="170"/>
+  </g>
+  <g opacity="0.9">
+    <circle cx="140" cy="40" r="2.5" fill="#8b949e"/>
+    <circle cx="100" cy="150" r="2.5" fill="#8b949e"/>
+    <circle cx="260" cy="100" r="2.5" fill="#8b949e"/>
+    <circle cx="230" cy="170" r="2.5" fill="#8b949e"/>
+  </g>
+  <circle cx="200" cy="70" r="18" fill="url(#glow2)"/>
+  <circle cx="200" cy="70" r="5" fill="url(#nodeGrad2)"/>
+  <circle cx="170" cy="130" r="14" fill="url(#glow2)"/>
+  <circle cx="170" cy="130" r="4" fill="url(#nodeGrad2)"/>
+
+  <text x="600" y="98" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="38" font-weight="700" fill="url(#accentGrad2)">Let's build something.</text>
+  <text x="600" y="134" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#8b949e">Open to freelance work, SaaS builds, and AI-powered products.</text>
+  <line x1="565" y1="156" x2="635" y2="156" stroke="url(#accentGrad2)" stroke-width="3" stroke-linecap="round"/>
+</svg>
